@@ -1,2 +1,3 @@
-# Machine_Learning
-Machine learning Basic python code
+# SAIL Lab.
+
+Machine Learning Baseline Code Organization
